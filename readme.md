@@ -99,7 +99,7 @@ RABBITMQ_QUEUE = admin_queue
 
 	127.0.0.1:8000
 
-![screenshot of sample]( https://github.com/mslobodyanyuk/laravel-microservices/admin/blob/master/public/images/1.png )
+![screenshot of sample]( https://github.com/mslobodyanyuk/laravel-microservices/blob/master/admin/public/images/1.png )
 
 ---
 	
@@ -157,7 +157,7 @@ _If no changes were made after build, for a faster launch, you can use the comma
 		
 	php artisan fire
 	
-![screenshot of sample]( https://github.com/mslobodyanyuk/laravel-microservices/admin/blob/master/public/images/2.png )
+![screenshot of sample]( https://github.com/mslobodyanyuk/laravel-microservices/blob/master/admin/public/images/2.png )
 
 ---
 
@@ -179,7 +179,7 @@ To enter, type the:
 
 _"If we see the chart we can see that event happened right here and it was processed... We fired event."_
 
-![screenshot of sample]( https://github.com/mslobodyanyuk/laravel-microservices/admin/blob/master/public/images/3.png )
+![screenshot of sample]( https://github.com/mslobodyanyuk/laravel-microservices/blob/master/admin/public/images/3.png )
 			
 ---
 
@@ -197,7 +197,7 @@ We see the:
 	main_main_queue_1
 	main_main_db_1
 
-![screenshot of sample]( https://github.com/mslobodyanyuk/laravel-microservices/admin/blob/master/public/images/4.png )
+![screenshot of sample]( https://github.com/mslobodyanyuk/laravel-microservices/blob/master/admin/public/images/4.png )
 
 ---
 
